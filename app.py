@@ -4,13 +4,13 @@ import numpy as np
 import joblib
 
 # Load the model
-model = joblib.load("model/real_estate_price_model.pkl")
+model = joblib.load("notebooks/real_estate_price_model.pkl")
 
-st.set_page_config(page_title="Real Estate Price Estimator by hardikjha97", layout="centered")
+st.set_page_config(page_title="Real Estate Price Estimator by hardikjha", layout="centered")
 
 st.title("🏡 Real Estate Price Estimator")
 
-st.markdown("by hardikjha97")
+st.markdown("by hardikjha")
 st.markdown("Enter the specifications of the house you want")
 
 # 📥 User inputs
