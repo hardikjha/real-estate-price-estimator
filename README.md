@@ -9,6 +9,7 @@ A machine learning-based web application that predicts the price of a house base
 -Clean and simple UI using Streamlit
 
 #Demo
+
 ![Screenshot](images/reales.png)
 ![Screenshot](images/reales2.png)
 ![Screenshot](images/reales3.png)
