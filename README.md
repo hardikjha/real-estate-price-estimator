@@ -10,8 +10,8 @@ A machine learning-based web application that predicts the price of a house base
 
 ##Demo
 
-![Screenshot](images/reales.png)
-![Screenshot](images/reales2.png)
-![Screenshot](images/reales3.png)
+![Screenshot](images/reales.PNG)
+![Screenshot](images/reales2.PNG)
+![Screenshot](images/reales3.PNG)
 
 
